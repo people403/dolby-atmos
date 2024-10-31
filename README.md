@@ -18,6 +18,4 @@
 ![Screenshot_2024-10-22-07-56-09-205_com atmos](https://github.com/user-attachments/assets/fe6996f0-cd6e-476a-afe6-86f272f005b7)
 
 ### Note:
-Magisk only not KSU, Dolby-atmos ini hasil dari modifikasi
-buka official.
-
+Tested rom hyperos, miui 14/13
